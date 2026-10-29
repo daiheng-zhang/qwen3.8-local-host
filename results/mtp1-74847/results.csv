@@ -1,0 +1,2 @@
+config,concurrency,tokens_per_s,running_mean,waiting_mean,kv_max,preemptions_in_window,errors,mean_completion_tokens,finish_length,latency_p50_s,spec_accept_rate
+auto-ssmbf16-mtp1-kv38,2048,7075.020939107535,803.2333333333333,1244.4833333333333,1.0,231.0,0,1735.0551132884261,23,268.3891580430063,0.8968303349532095

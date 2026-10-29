@@ -1,0 +1,4 @@
+{"messages": [
+  {"role": "system", "content": "<your system prompt>"},
+  {"role": "user", "content": "<your user prompt, ~700 characters in our runs>"}
+]}
